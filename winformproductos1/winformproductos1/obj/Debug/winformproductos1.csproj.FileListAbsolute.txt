@@ -1,0 +1,13 @@
+C:\Users\Pablo Ocaño\source\repos\winformproductos1\winformproductos1\bin\Debug\winformproductos1.exe.config
+C:\Users\Pablo Ocaño\source\repos\winformproductos1\winformproductos1\bin\Debug\winformproductos1.exe
+C:\Users\Pablo Ocaño\source\repos\winformproductos1\winformproductos1\bin\Debug\winformproductos1.pdb
+C:\Users\Pablo Ocaño\source\repos\winformproductos1\winformproductos1\obj\Debug\winformproductos1.csproj.AssemblyReference.cache
+C:\Users\Pablo Ocaño\source\repos\winformproductos1\winformproductos1\obj\Debug\winformproductos1.Properties.Resources.resources
+C:\Users\Pablo Ocaño\source\repos\winformproductos1\winformproductos1\obj\Debug\winformproductos1.csproj.GenerateResource.cache
+C:\Users\Pablo Ocaño\source\repos\winformproductos1\winformproductos1\obj\Debug\winformproductos1.csproj.CoreCompileInputs.cache
+C:\Users\Pablo Ocaño\source\repos\winformproductos1\winformproductos1\obj\Debug\winformproductos1.exe
+C:\Users\Pablo Ocaño\source\repos\winformproductos1\winformproductos1\obj\Debug\winformproductos1.pdb
+C:\Users\Pablo Ocaño\source\repos\winformproductos1\winformproductos1\bin\Debug\Entidades.dll
+C:\Users\Pablo Ocaño\source\repos\winformproductos1\winformproductos1\bin\Debug\Entidades.pdb
+C:\Users\Pablo Ocaño\source\repos\winformproductos1\winformproductos1\obj\Debug\winformproductos1.Formproductos.resources
+C:\Users\Pablo Ocaño\source\repos\winformproductos1\winformproductos1\obj\Debug\winformproductos1.csproj.CopyComplete
